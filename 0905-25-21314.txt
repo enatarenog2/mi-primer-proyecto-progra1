@@ -1,0 +1,8 @@
+1. ¿Qué aprendí sobre el flujo de trabajo con Git y GitHub?
+Aprendí a crear un repositorio, clonar, usar git add, git commit, git push y a crear ramas.
+
+2. ¿Cómo fue la experiencia de trabajar en pareja o individual?
+Trabajé de forma individual. Al inicio se me hizo difícil porque no conocía Git, pero logré resolver errores como problemas con ramas y archivos.
+
+3. ¿Qué ventajas crees que tiene usar Git en proyectos de programación?
+Permite llevar control de versiones, evitar perder cambios y facilitar el trabajo en equipo.
